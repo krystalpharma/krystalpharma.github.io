@@ -1,4 +1,4 @@
-# coding: utf-8
+.# coding: utf-8
 
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-theme-clean-blog"
@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Krystal Pharma Engineering"]
   spec.email         = ["support@krystalpharma.com"]
 
-  spec.summary       = %q{Krystal Pharma Engineering}
+  spec.summary       = %q{Krystal Pharma Engineering.}
   spec.homepage      = "https://github.com/krystalpharma"
   spec.license       = "MIT"
 
