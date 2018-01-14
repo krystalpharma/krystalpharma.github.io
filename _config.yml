@@ -1,8 +1,8 @@
 title:             Krystal Pharma Engineering
 email:             vijay@krystalpharma.com
 author:            Krystal Pharma
-baseurl:               "/"
-#url:               "https://krystalpharma.github.io"
+#baseurl:               ""
+url:               "https://krystalpharma.github.io"
 
 # Social Profiles
 twitter_username:  PharmaKrystal
