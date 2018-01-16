@@ -4,7 +4,7 @@ Gem::Specification.new do |spec|
   spec.name          = "jekyll-theme-clean-blog"
   spec.version       = "0.1.1"
   spec.authors       = ["Krystal Pharma Engineering"]
-  spec.email         = ["support@krystalpharma.com"]
+  spec.email         = ["vijay@krystalpharma.com"]
 
   spec.summary       = %q{Krystal Pharma Engineering.}
   spec.homepage      = "https://github.com/krystalpharma/krystalpharma.github.io"
